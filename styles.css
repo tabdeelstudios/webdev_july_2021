@@ -1,0 +1,22 @@
+/*Fonts*/
+@font-face {
+  font-family: SignikaBold;
+  src: url('assets/fonts/Signika-Bold.ttf');
+}
+
+@font-face {
+  font-family: SignikaMedium;
+  src: url('assets/fonts/Signika-Medium.ttf');
+}
+
+@font-face {
+  font-family: SignikaRegular;
+  src: url('assets/fonts/Signika-Regular.ttf');
+}
+
+/*Styles*/
+
+header{
+	background-image: url('assets/header_bg_2.png');
+	background-size: contain;
+}
